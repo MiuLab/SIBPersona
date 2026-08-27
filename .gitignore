@@ -1,0 +1,20 @@
+# Environment variables (API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Pipeline outputs — may embed real user content; never commit these
+token_report.json
+emb_cache.json
+*_embeddings.json
+*_labeled_*.json
+**/recognized/
+**/persona_module/
+**/response_outputs/
+**/for_evaluation/
+**/results/
+open_source_dataset/data/

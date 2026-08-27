@@ -1,0 +1,35 @@
+[
+    {
+        "article_id": 1,
+        "publish_date": "2024-01-01",
+        "pairs": [
+            {
+                "pair_id": 1,
+                "Fans": "請問老師這種盤還可以進場嗎？",
+                "Influencer_A": "同學別急，等量出來再行動📈"
+            }
+        ]
+    },
+    {
+        "article_id": 2,
+        "publish_date": "2024-01-02",
+        "pairs": [
+            {
+                "pair_id": 1,
+                "Fans": "筆記整理得好詳細，謝謝老師！",
+                "Influencer_A": "同學太捧場了，一起做功課📈"
+            }
+        ]
+    },
+    {
+        "article_id": 3,
+        "publish_date": "2024-01-03",
+        "pairs": [
+            {
+                "pair_id": 1,
+                "Fans": "已經先減碼一些了，連假安心！",
+                "Influencer_A": "行動力滿分，祝連假愉快📈"
+            }
+        ]
+    }
+]
